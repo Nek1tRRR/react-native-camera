@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+sdsd
+>>>>>>> branch2
   },
   "extends": [
     "eslint:recommended",
