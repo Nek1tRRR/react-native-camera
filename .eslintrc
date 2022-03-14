@@ -1,18 +1,4 @@
-{
-  "parser": "babel-eslint",
-  "env": {
-    "browser": true,
-    "node": true,
-    "jest": true,
-    "es6": true
-  },
-  "plugins": ["react", "react-native", "flowtype", "import"],
-  "parserOptions": {
-    "ecmaVersion": 6,
-    "sourceType": "module",
-    "ecmaFeatures": {
-      "modules": true
-    }
+sdsd
   },
   "extends": [
     "eslint:recommended",
